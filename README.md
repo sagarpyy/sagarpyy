@@ -19,3 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagarpyy&show_icons=true&locale=en" alt="sagarpyy" /></p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagarpyy&show_icons=true&theme=radical)
