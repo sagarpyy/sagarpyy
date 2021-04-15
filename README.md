@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Deep Learning Project**
 
-- 🤝 I’m looking for help with **AI Mathematica**
+- 🤝 I’m mentoring in Deep Learning & Computer Vision **AI Mathematica**
 
 - 📝 I regularly write articles on [Medium](Medium)
 
